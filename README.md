@@ -1,0 +1,1 @@
+This is a simple application made as suggested in the course Modern Javascript with Andrew Mead.
